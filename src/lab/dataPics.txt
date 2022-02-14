@@ -1,0 +1,12 @@
+
+src/lab/house1Pic.png
+
+src/lab/house2Pic.png
+
+src/lab/house3Pic.png
+
+src/lab/house4Pic.png
+
+src/lab/house5Pic.png
+
+src/lab/house6Pic.png
